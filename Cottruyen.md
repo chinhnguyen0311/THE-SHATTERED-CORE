@@ -15,7 +15,7 @@
     gameplay: Khám phá → Chiến đấu → Thu thập → Chọn Core → Xây dựng build → Vượt ải → Boss → Mở khóa sức mạnh → Tiếp tục hành trình.
 
 2. CỐT TRUYỆN
-    2.1. Thế giới được tạo nên bởi một nguồn năng lượng gọi là:
+    Thế giới được tạo nên bởi một nguồn năng lượng gọi là:
         THE ORIGIN
 
         Origin không phải là phép thuật.

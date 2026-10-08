@@ -97,11 +97,15 @@ Sau mỗi ải:
         Ví dụ:
         Force + Fire
         = Burning Weapon
+
         Arcana + Lightning
         = Chain Spell
+
         Life + Poison
         = Toxic Growth
+
         Spirit + Void
         = Soul Collapse
+        
         Ice + Physical
         = Shatter Build
