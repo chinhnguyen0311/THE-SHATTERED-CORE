@@ -18,9 +18,7 @@ Sau mỗi ải:
     Core trung: Thêm gameplay 
         ví dụ: Attack có 20% Burn
     Core lớn: Thay đổi cách chơi.
-
-    Mỗi lần Dash
-    → tạo Fire Trail
+        ví dụ: Mỗi lần Dash → tạo Fire Trail
 
     CORE CÓ THỂ XẾP CHỒNG
     
@@ -35,6 +33,7 @@ Sau mỗi ải:
 2. CORE ARCHETYPE
 
     FORCE CORE
+    
         Tập trung:
             ATK
             DEF
@@ -44,6 +43,7 @@ Sau mỗi ải:
         Build: Warrior
 
     ARCANA CORE
+
         Tập trung:
             Mana
             Magic Damage
@@ -106,6 +106,6 @@ Sau mỗi ải:
 
         Spirit + Void
         = Soul Collapse
-        
+
         Ice + Physical
         = Shatter Build
